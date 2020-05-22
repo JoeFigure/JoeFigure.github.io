@@ -23636,7 +23636,7 @@ D.r4.prototype={
 HS:function(){this.aJ(new D.PF(this))},
 EN:function(){K.Sm(this.c).me(null)},
 H:function(a){var t=null,s=u.E,r=T.p1(H.b([new T.cS(t,t,t,t),T.i9(H.b([new T.cS(t,t,t,t),new T.d5(C.jX,new D.tv(t),t),new T.cS(t,t,t,t)],s),C.aY,C.iI)],s),C.iI)
-return M.VG(C.vs,T.xU(C.hp,H.b([r,new D.pJ(this.e?180:0,t),new T.jI(C.mo,t,t,new D.td(this.gHR(),t),t),new D.yf(this.gEM(),t)],s),C.hg))}}
+return M.VG(C.vs,T.xU(C.hp,H.b([r,new D.pJ(this.e?180:90,t),new T.jI(C.mo,t,t,new D.td(this.gHR(),t),t),new D.yf(this.gEM(),t)],s),C.hg))}}
 D.PF.prototype={
 $0:function(){var t=this.a
 t.e=!t.e},
@@ -23664,12 +23664,12 @@ t=N.dh(M.by(m,U.cv("assets/images/icon_timer.png",m,30),m,m,m,60,m,m,m),t,m,new 
 s=n.d===2?C.k:K.aF(a).c
 s=N.dh(M.by(m,U.cv("assets/images/icon_playback_speed.png",m,30),m,m,m,60,m,m,m),s,m,new D.PW(n))
 r=n.d===3?C.k:K.aF(a).c
-r=N.dh(M.by(m,U.cv("assets/images/icon_greenscreen.png",m,30),m,m,m,60,m,m,m),r,m,new D.PX(n))
+r=N.dh(M.by(m,U.cv("assets/images/icon_greenscreen.png",m,35),m,m,m,60,m,m,m),r,m,new D.PX(n))
 q=n.d===4?C.k:K.aF(a).c
-q=N.dh(M.by(m,U.cv("assets/images/icon_lipsync.png",m,30),m,m,m,60,m,m,m),q,m,new D.PY(n))
+q=N.dh(M.by(m,U.cv("assets/images/icon_lipsync.png",m,45),m,m,m,60,m,m,m),q,m,new D.PY(n))
 p=n.d===5?C.k:K.aF(a).c
 o=u.E
-return new G.mk(M.by(m,M.by(m,T.i9(H.b([T.p1(H.b([new T.cZ(1,C.ah,h,m),new T.cZ(1,C.ah,t,m),new T.cZ(1,C.ah,s,m),new T.cZ(1,C.ah,r,m),new T.cZ(1,C.ah,q,m),new T.cZ(1,C.ah,N.dh(M.by(m,U.cv("assets/images/icon_onion.png",m,30),m,m,m,60,m,m,m),p,m,new D.PZ(n)),m)],o),C.d4),new T.cZ(1,C.ah,M.by(m,T.p1(H.b([L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m))],o),C.d4),C.j,m,m,m,m,m,m),m)],o),C.aY,C.d4),i,m,m,m,m,m,m),m,m,m,150,m,m,600),j,C.qY,k,m,m)}}
+return new G.mk(M.by(m,M.by(m,T.i9(H.b([T.p1(H.b([new T.cZ(1,C.ah,h,m),new T.cZ(1,C.ah,t,m),new T.cZ(1,C.ah,s,m),new T.cZ(1,C.ah,r,m),new T.cZ(1,C.ah,q,m),new T.cZ(1,C.ah,N.dh(M.by(m,U.cv("assets/images/icon_onion.png",m,24),m,m,m,60,m,m,m),p,m,new D.PZ(n)),m)],o),C.d4),new T.cZ(1,C.ah,M.by(m,T.p1(H.b([L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m)),L.du(l,A.ca(m,m,K.aF(a).c,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m))],o),C.d4),C.j,m,m,m,m,m,m),m)],o),C.aY,C.d4),i,m,m,m,m,m,m),m,m,m,150,m,m,600),j,C.qY,k,m,m)}}
 D.PT.prototype={
 $0:function(){return this.b.d=this.a.a},
 $S:23}
